@@ -1,5 +1,7 @@
 //compileExpanded, style.scss
 
+@import "/libs/import.css";
+
 h1 {
   color: #fff000
 }
@@ -8,6 +10,7 @@ h1 {
   background-color: #00d9ff;
   border-radius: 20px;
   padding: 10px;
+  margin: 20px;
   
   .name {
     font-size: 2em;
